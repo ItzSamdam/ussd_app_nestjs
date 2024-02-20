@@ -9,8 +9,8 @@ USSD APPLICATION DEMO
 This is a simple USSD APPLICATION DEMO
 
 There are two endpoints in the application
-### 1. No Third Party Implementation    -   `http://localhost:4000/ussd/ussd_no_third_party`
-NO Third Party Implementation is used for this purpose, As such it is not be the best way to implement USSD Application.
+1. No Third Party Implementation    -   `http://localhost:4000/ussd/ussd_no_third_party`
+No Third Party Implementation is used for this purpose, As such it is not be the best way to implement USSD Application.
 
 Response Example
 ```text
@@ -25,7 +25,7 @@ Please select your preferred language
 0. End
 ```
 
-### 2. Third Party Implementation    -   `http://localhost:4000/ussd/ussd_third_party`
+2. Third Party Implementation    -   `http://localhost:4000/ussd/ussd_third_party`
 
 
 
